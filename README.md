@@ -13,5 +13,7 @@ After you've revealed several letters, you may be able to guess what the answer 
 
 Be warned, every time you guess a letter wrong you loose a life and the hangman begins to appear, piece by piece.
 
-Solve the puzzle before the hangman dies.!
+Solve the puzzle before the hangman dies.
+
+
 ![unnamed](unnamed.png?raw=true "Title")
