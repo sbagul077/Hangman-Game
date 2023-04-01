@@ -17,3 +17,6 @@ Solve the puzzle before the hangman dies.
 
 
 ![unnamed](unnamed.png?raw=true "Title")
+
+##Technology used
+Python
